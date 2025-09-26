@@ -1,22 +1,14 @@
-# 👋 ¡Hola! Soy Agustín Ivanoff
+Hola! 
 
-🧑‍💻 Desarrollador Backend PHP & Administrador de Sistemas
-
----
-
-## 🚀 Sobre mí
-
-Soy un profesional IT con más de 10 años de experiencia, combinando desarrollo backend (Laravel) y administración de sistemas (Linux/Windows). Trabajo construyendo soluciones reales para clientes, tanto del lado del código como desde la infraestructura y soporte técnico.
-
----
+Soy Agustín Ivanoff, sysadmin y desarrollador backend con experiencia en infraestructura, automatización y desarrollo de sistemas utilizando TALL Stack (Tailwind, AlpineJS, Laravel, Livewire).  
+Actualmente trabajo de forma freelance construyendo soluciones a medida.
 
 ## 🧠 Stack principal
 
 ### 🔹 Desarrollo
 - PHP 8.4+ • Laravel • Livewire • AlpineJS • Tailwind
 - MySQL • REST APIs • Git • CI/CD
-- Experiencia real con eCommerce, sistemas de reservas y dashboards administrativos
-
+  
 ### 🔹 Infraestructura / DevOps
 - Linux • Windows Server • Docker • GitLab CI • Jenkins
 - Bash scripting • Ansible • Virtualización (VMware, Hyper-V)
